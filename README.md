@@ -4,6 +4,6 @@ I'm developer, photographer, and writer. I love building tech and learning new t
 
 ![Profile Views](https://komarev.com/ghpvc/?username=janedoe&color=blue)
 ## About Me
-- 🌱 I’m currently learning ML and Math
+- 🌱 I’m currently learning C
 - 📫 How to reach me: tifelabs.com
 
