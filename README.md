@@ -1,7 +1,7 @@
 ## Hello, I'm Tife 
 I love building tech.
 
-![Profile Picture](./path/to/your/screenshot.png)
+![Profile Picture](image/neo.png)
 
 ## 
 - 🌱 I’m currently learning C
