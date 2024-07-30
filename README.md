@@ -1,6 +1,5 @@
 ## Hello, I'm Tife 
-
-I'm a developer, photographer, and writer. I love building tech and learning new things.
+I love building tech.
 
 ![Profile Picture](./path/to/your/screenshot.png)
 
