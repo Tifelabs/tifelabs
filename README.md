@@ -1,7 +1,3 @@
 ## Hello, I'm Tife 
-I love building tech.
+Computers are cool
 
-![Profile Picture](image/neo.png)
-
-## 
-- 🌱 I’m learning stuffs :)
