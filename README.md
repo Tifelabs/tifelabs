@@ -1,5 +1,5 @@
 ## Hello, I'm Tife 
-Computers are cool
+#### Computers are cool
 
 
-![alt text](image/neofetch.png)
+![alt text](gbaby.png)
