@@ -1,3 +1,3 @@
-## Hello, I'm Tife 
+# Hello, I'm Tife 
 #### Computers are cool
 
