@@ -3,4 +3,4 @@
 
 <br>
 
-<img src="image/pacman.png" width="75%" height="50%">
+<img src="image/pacman.png" width="50%" height="25%">
